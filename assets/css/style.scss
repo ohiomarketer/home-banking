@@ -32,10 +32,8 @@ body {
     }
 
     .notifications__container {
-        .notifications__logo {
-            width: 37px;
-            height: 37px;
-            margin-top: 8px;
+        i {
+            font-size: 26px;
         }
     }
 }
